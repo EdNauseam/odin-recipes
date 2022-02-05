@@ -1,0 +1,13 @@
+* {
+    background-color: aquamarine;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.steps li {
+    margin:5px 0;
+}
+
+.main-image{
+    width: 400px;
+    height: auto;
+}
